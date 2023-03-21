@@ -1,4 +1,4 @@
-# Eyes Demo
+# Eye Exercise
 
 ### Description
 
