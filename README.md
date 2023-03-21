@@ -2,7 +2,7 @@
 
 ### Description
 
-This is the eyes demo.  The two eyes follow the cursor around the screen.  A random amount of time, from 500ms to 5500ms the eyes will blink.
+This is the eye exercise.  The two eyes follow the cursor around the screen.  A random amount of time, from 500ms to 5500ms the eyes will blink.
 
 
 ### How to run
